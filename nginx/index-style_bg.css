@@ -1,0 +1,16 @@
+.bgr1{
+    background-attachment: fixed;
+    background-image: url(LL_.jpg);
+    background-size: cover;
+}
+.bgr2{
+    margin-left: 25%;
+    background-attachment: scroll;
+    align-items: center;
+    height: 50%;
+    width: 50%;  
+    color: white; 
+    background-color: rgb(46, 45, 42); 
+    padding: 10px;
+    opacity: 0.8;
+}
